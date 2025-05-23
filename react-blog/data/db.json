@@ -7,22 +7,16 @@
       "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
     },
     {
-      "id": "2",
-      "title": "My 2nd Post",
-      "datetime": "July 01, 2021 11:17:36 AM",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+      "id": "5",
+      "title": "useContext Post",
+      "datetime": "May 23, 2025 12:45:14 PM",
+      "body": "edited!! again!"
     },
     {
-      "id": "3",
-      "title": "My 3rd Post",
-      "datetime": "July 01, 2021 11:17:36 AM",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
-    },
-    {
-      "id": "4",
-      "title": "My Fourth Post!",
-      "datetime": "May 22, 2025 6:46:57 PM",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa! Test edit"
+      "id": "6",
+      "title": "Testing",
+      "datetime": "May 23, 2025 12:34:01 PM",
+      "body": "new post w/ changed usecontext"
     }
   ]
 }
