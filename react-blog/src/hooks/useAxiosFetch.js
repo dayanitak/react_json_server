@@ -5,11 +5,9 @@ const useAxiosFetch = (dataUrl) => {
     const [data,setData] = useState([]);
     const [fetchError, setFetchError] = useState(null);
     const [isLoading, setIsLoading] = useState(false);
-
     useEffect(() => {
         let isMounted = true;
         const source = axios.CancelToken.source();
-
         const fetchData = async (url) => {
             setIsLoading(true);
             try {
@@ -40,7 +38,6 @@ const useAxiosFetch = (dataUrl) => {
             return cleanUp;
         
     }, [dataUrl])
-
     return {data, fetchError, isLoading};
 }
 
